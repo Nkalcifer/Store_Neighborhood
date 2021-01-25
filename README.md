@@ -5,15 +5,15 @@ Inventario
 Informacion Empleados
 # Roles principales
 ### Vendedor
-___ Propietario Tienda
+- Propietario Tienda
 ### Proveedor
-___ Carga la tienda de productos necesarios
+- Carga la tienda de productos necesarios
 
 ### Cliente
-___ Comprador de los productos
+- Comprador de los productos
 
 ### Domiciliario
-___ Entrega los productos
+- Entrega los productos
 
 # Reglas, Procesos y Funcionalidades de venta
 * Venta full Online
@@ -36,4 +36,7 @@ ___ Entrega los productos
 * Generación de Promociones
 * Alertar sobre Inventario
 * Confirmacion Venta y Pago
+
+# Historias de Usuario:
+
 
