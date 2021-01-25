@@ -5,18 +5,33 @@ Inventario
 Informacion Empleados
 # Roles principales
 ### Vendedor
-___Propietario Tienda
+___ Propietario Tienda
 ### Proveedor
-___Carga la tienda de productos necesarios
+___ Carga la tienda de productos necesarios
 
 ### Cliente
-___Comprador de los productos
+___ Comprador de los productos
 
 ### Domiciliario
-___Entrega los productos
+___ Entrega los productos
 
-#Reglas o Procesos de venta
+# Reglas, Procesos y Funcionalidades de venta
 * Venta full Online
 * Venta de productos perecederos y no perecederos
 * Mercadeo e inventariado
 * Envio y Recepcion de Productos
+* Proceso de venta de Producotos
+* Facturacion electronica
+* Creacion de Pedidos
+* Despacho de Pedidos
+* Seguimiento de Pedidos
+* Comunicacion Cliente, Vendedor y Proveedores
+* Visualización de Pedidos
+* Consumo de Productos en inventario.
+* Confirmar Domiciliario
+* Ruteo Optimo de Pedidos
+* Estudio de mercadeo
+* Sugerencia de Productos
+* Generación de Promociones
+* Alertar sobre Inventario
+
