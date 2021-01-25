@@ -62,3 +62,9 @@ Informacion Empleados
 * Pagina Web con Opcion de Venta de una lista de productos
 * Orientacion en Microservicios
 * 
+
+## Historias Prioritarias
+* solicitar productos como cliente
+* como tendero despachar los productos para Envio de Pedidos
+* como tendero administrar los pedidos para ordenar la tienda
+y como cliente enviar ubicacion para facilitar uso de app
