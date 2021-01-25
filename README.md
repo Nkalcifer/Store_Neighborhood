@@ -1,6 +1,11 @@
 # Store_Neighborhood
 Tienda Básica de Un barrio, aplicando metodologías de historias de Usuario
 
+#Integrantes
+* Christian Caro -20181020027
+* Neider Puentes - 20181020017
+* Santiago Ríos -20162021307
+
 Inventario
 Informacion Empleados
 # Roles principales
