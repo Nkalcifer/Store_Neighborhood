@@ -21,6 +21,7 @@ ___ Entrega los productos
 * Mercadeo e inventariado
 * Envio y Recepcion de Productos
 * Proceso de venta de Producotos
+* Validacion metodos de Pago
 * Facturacion electronica
 * Creacion de Pedidos
 * Despacho de Pedidos
@@ -34,4 +35,5 @@ ___ Entrega los productos
 * Sugerencia de Productos
 * Generación de Promociones
 * Alertar sobre Inventario
+* Confirmacion Venta y Pago
 
