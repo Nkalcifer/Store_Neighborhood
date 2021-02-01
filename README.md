@@ -73,3 +73,6 @@ Informacion Empleados
 * como tendero despachar los productos para Envio de Pedidos
 * como tendero administrar los pedidos para ordenar la tienda
 y como cliente enviar ubicacion para facilitar uso de app
+
+
+## Lista de Historias 
