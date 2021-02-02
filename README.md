@@ -75,4 +75,8 @@ Informacion Empleados
 y como cliente enviar ubicacion para facilitar uso de app
 
 
-## Lista de Historias 
+## Lista de Tareas 
+
+* Llenado de Carrito en Web
+* Estructurar la Base de Datos
+* Microservicio de Consulta y Edicion de DB
