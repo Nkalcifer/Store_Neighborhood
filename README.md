@@ -75,7 +75,13 @@ Informacion Empleados
 y como cliente enviar ubicacion para facilitar uso de app
 
 
-## Lista de Historias 
+## Lista de Tareas
+
+* Llenado de Carrito en Web
+* Estructurar la Base de Datos y poblado de la misma
+* Microservicio de Consulta y Edicion de DB
+
+
 ## Definición de Roles
 * Santiago Rios
  - Creación del proyecto. 
