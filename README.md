@@ -78,5 +78,5 @@ y como cliente enviar ubicacion para facilitar uso de app
 ## Lista de Tareas 
 
 * Llenado de Carrito en Web
-* Estructurar la Base de Datos
+* Estructurar la Base de Datos y poblado de la misma
 * Microservicio de Consulta y Edicion de DB
