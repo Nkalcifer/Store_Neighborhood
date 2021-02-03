@@ -1,6 +1,5 @@
 # Store_Neighborhood
-Tienda Básica de Un barrio, aplicando metodologías de historias de Usuario
-
+Tienda básica de un barrio, aplicando metodologías de historias de usuario.
 #Integrantes
 * Christian Caro - 20181020027
 * Neider Puentes - 20162021307
@@ -21,65 +20,64 @@ Informacion Empleados
 - Entrega los productos
 
 # Reglas, Procesos y Funcionalidades de venta
-* Venta full Online
-* Venta de productos perecederos y no perecederos
-* Mercadeo e inventariado
-* Envio y Recepcion de Productos
-* Proceso de venta de Producotos
-* Validacion metodos de Pago
-* Facturacion electronica
-* Creacion de Pedidos
-* Despacho de Pedidos
-* Seguimiento de Pedidos
-* Comunicacion Cliente, Vendedor y Proveedores
-* Visualización de Pedidos
-* Consumo de Productos en inventario.
-* Confirmar Domiciliario
-* Ruteo Optimo de Pedidos
-* Estudio de mercadeo
-* Sugerencia de Productos
-* Generación de Promociones
-* Alertar sobre Inventario
-* Confirmacion Venta y Pago
+* Venta 100% en linea.
+* Venta de productos perecederos y no perecederos.
+* Mercadeo e inventariado.
+* Envío y recepción de productos.
+* Proceso de venta de productos.
+* Validación de métodos de pago.
+* Facturación electrónica.
+* Creación de pedidos.
+* Despacho de pedidos.
+* Seguimiento de pedidos.
+* Comunicación cliente, vendedor y proveedores.
+* Visualización de pedidos.
+* Consumo de productos en inventario.
+* Confirmar domiciliario.
+* Asigncación de rutas óptima para el envío de pedidos.
+* Sugerencia de productos.
+* Generación de promociones.
+* Alertar sobre inventario.
+* Confirmación venta y pago.
 
 # Historias de Usuario:
 
 ## Cliente
-* Realizar el Pedido seleccionando de una lista de productos disponibles en la tienda
-* Revisar las promociones en la tienda
-* Confirmar el Pedido con los productos seleccionados
-* Confirmar el Metodo de Pago
-* Ofrecer Ubicacion 
-* Cancelar parcialmente un Pedido (Productos especificos)
-* Sugerir al Tendero productos nuevos al inventario
+* Realizar el pedido seleccionado de una lista de productos disponibles en la tienda.
+* Revisar las promociones en la tienda.
+* Confirmar el pedido con los productos seleccionados.
+* Confirmar el método de pago.
+* Ofrecer ubicación.
+* Cancelar parcialmente un pedido (Productos especificos).
+* Sugerir al Tendero productos nuevos al inventario.
 
 ## Tendero
-* Reportes sobre solicitud de los productos para optimizar el inventario
-* Crear campaña de promocion para mejora del negocio
-* Generar Facturas virtuales y/o Fisicas para Cliente
-* Administrar lista de Pedidos para despacho por domiciliario(s)
-* Organizar el Inventario
-* Solicitar productos al Inventario
+* Reportes sobre solicitud de los productos para optimizar el inventario.
+* Crear campaña de promocion para mejora del negocio.
+* Generar facturas virtuales y/o físicas para el cliente.
+* Administrar lista de pedidos para despacho por domiciliario(s).
+* Organizar el inventario.
+* Solicitar productos al inventario.
 
 
-### Requerimientos Tecnologicos y Arquitecturales
-* Pagina web Optimizada para la Visualizacion de productos disponibles en una tienda
-* Pagina Web con Opcion de Venta de una lista de productos
-* Orientacion en Microservicios
+### Requerimientos Tecnológicos y Arquitecturales
+* Página web optimizada para la visualización de productos disponibles en una tienda.
+* Página web con opción de venta de una lista de productos.
+* Orientación en microservicios.
 * 
 
 ## Historias Prioritarias
-* solicitar productos como cliente
-* como tendero despachar los productos para Envio de Pedidos
-* como tendero administrar los pedidos para ordenar la tienda
-y como cliente enviar ubicacion para facilitar uso de app
+* Solicitar productos como cliente.
+* Como tendero despachar los productos para el envío de pedidos.
+* Como tendero administrar los pedidos para ordenar la tienda
+y como cliente enviar una ubicación para facilitar el uso de la aplicación.
 
 
 ## Lista de Tareas
 
-* Llenado de Carrito en Web
-* Estructurar la Base de Datos y poblado de la misma
-* Microservicio de Consulta y Edicion de DB
+* Llenado de carrito.
+* Estructurar la base de datos y poblado de la misma.
+* Microservicio de consulta y edición de BD.
 
 
 ## Definición de Roles
